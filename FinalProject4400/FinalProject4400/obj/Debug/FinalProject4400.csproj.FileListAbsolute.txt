@@ -1,0 +1,29 @@
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\bin\Debug\FinalProject4400.exe.config
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\bin\Debug\FinalProject4400.exe
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\bin\Debug\FinalProject4400.pdb
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.csprojResolveAssemblyReference.cache
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\MainWindow.g.cs
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\App.g.cs
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400_MarkupCompile.cache
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400_MarkupCompile.lref
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\MainWindow.baml
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.g.resources
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.Properties.Resources.resources
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.csproj.GenerateResource.Cache
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.exe
+\\matrix.col.missouri.edu\ENGR-MUGL\pjrc74\Desktop\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.pdb
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\bin\Debug\FinalProject4400.exe.config
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\bin\Debug\FinalProject4400.exe
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\bin\Debug\FinalProject4400.pdb
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.csprojAssemblyReference.cache
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\MainWindow.g.cs
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\App.g.cs
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400_MarkupCompile.cache
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400_MarkupCompile.lref
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\MainWindow.baml
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.g.resources
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.Properties.Resources.resources
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.csproj.GenerateResource.cache
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.csproj.CoreCompileInputs.cache
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.exe
+C:\Users\Patrick Rottman\Downloads\CS4400FinalRottman\CS4400FinalRottman\FinalProject4400\FinalProject4400\obj\Debug\FinalProject4400.pdb

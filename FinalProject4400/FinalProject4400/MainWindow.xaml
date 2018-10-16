@@ -1,0 +1,31 @@
+﻿<Window x:Class="FinalProject4400.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FinalProject4400"
+        mc:Ignorable="d"
+        Title="Flappy Bird" Height="600" Width="800" Closed="Window_Closed" ResizeMode="NoResize">
+    <Grid Name="mainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="21"/>
+            <RowDefinition Height="547*"/>
+        </Grid.RowDefinitions>
+
+        <Rectangle Name="rectangle" Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="690" Margin="-102,-53,-92,-65.333" Grid.RowSpan="2" Stroke="Black" VerticalAlignment="Top" Width="988"/>
+        <Canvas Name="gameArea" Background="Gray" Margin="0,0,0,-0.333" Grid.RowSpan="2">
+            <TextBlock x:Name="flappyText" Height="413" Foreground="CadetBlue" Canvas.Left="51" TextWrapping="Wrap" FontSize="200px" Width="827"><Run Text="F"/><Run Text="LAPPY"/></TextBlock>
+            <TextBlock Name="birdText" Height="413" Foreground="CornflowerBlue"  Canvas.Left="181" TextWrapping="Wrap" FontSize="200px" Width="827" Canvas.Top="288"><Run Text="BIRD"/></TextBlock>
+        </Canvas>
+        
+
+        <Button Name="start" FontSize="30px" Content="Start!" Margin="260,221,264,257.667" Grid.Row="1" Click="start_Click"/>
+        <Button Visibility="Hidden" Name="close" FontSize="30px" Content="Close" Margin="260,221,264,257.667" Grid.Row="1" Click="close_Click"/>
+
+        <Label FontSize="25px" Content="Score: " HorizontalAlignment="Left" VerticalAlignment="Top" Height="101" Width="120" Grid.RowSpan="2"/>
+
+        <Label FontSize="25px" x:Name="score" Content="0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="101" Width="81" Margin="75,0,0,0" Grid.RowSpan="2"/>
+
+
+    </Grid>
+</Window>

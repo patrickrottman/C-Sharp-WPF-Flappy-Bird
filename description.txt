@@ -1,0 +1,6 @@
+Patrick Rottman
+PJRC74 - 12507773
+
+Fairly easy to use! When you launch the App press any key to flap the bird. 
+The idea behind the game is to make it through the pipes. They are randomly located at different heights making the flapping more difficult. The game is in theory infinite. Once the pipes leave the screen they are destroyed so that the game does not slowly lag itself out the further you get.
+
